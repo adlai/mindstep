@@ -1,0 +1,14 @@
+;;;;;
+title: Hello, RSS Reader!
+tags: robots
+format: md
+date: 2019-03-30 16:27:49
+;;;;;
+
+In the past few weeks, a new spider by the name of "Tiny Tiny RSS" has begun feeding quite voraciously upon this dump's meagre offerings; in fact, it's consistently ranking as the most frequently encountered noise in this server's logs. I'm inclined towards forgiveness, due to having tripped my own fair share of spam filters throughout the course of my work, yet I doubt that idly refreshing my nonsense hose counts as _work_!
+
+1. If you're the fellow responsible for the RSS Reader repeatedly requesting feed from 94.23.215.174, please consider this a friendly request that you calibrate your request frequency slightly closer to this server's distribution of update frequencies... as a sane default, [request refreshment](/rss.xml) no more often than the [lunar high tide](http://hyperphysics.phy-astr.gsu.edu/hbase/tide.html).
+
+2. If you do not comply with this request, I may deem it necessary to issue threats.
+
+3. If you're a confused human, please consider this a misplaced [robots file](/robots.txt).

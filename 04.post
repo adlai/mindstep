@@ -1,0 +1,13 @@
+;;;;;
+title: "Hello" - world
+tags: meta, war
+format: md
+date: 2017-04-05 14:50:55
+;;;;;
+Less than twelve hours into this site's public availability, this entire server got visited by the lazy, skiddy sister of the pentest fairy. Though I don't presume to fathom the murky art of flooding webservers with garbage in the hope that some magic phrase will trigger their undressing and enlistment in your servitude, perhaps some bored entomologist might:
+
+_[EDIT: Due to Coleslaw choking when trying to compile a mere two megabyte preformatted block from markdown into HTML, the full log has been removed from this post. If you're still itching to read it, ask for a copy directly.]_
+
+My guess is that Hunchentoot is immune to tricks that seem better suited to PHP, and I also suppose that successful intrusion would be followed by purging of evidence; yet the most devious invader might leave only the evidence of failed attempts, cultivating a sense of false security in the gullible admin. Perhaps someday, I may be so flattered as to have this level of attention on my case, but my gut tells me this script wouldn't even know what to do with a REPL if it managed to squeeze one out.
+
+A cursory study of the above material reveals that Hunchentoot, as currently configured, leaks whether a user exists in the system. Doing anything with this information beyond noting it in a blog post is left as an exercise, as is the configuration and deployment of better ramparts.

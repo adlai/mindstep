@@ -1,0 +1,99 @@
+;;;;;
+title: Isn't Betteridge's Law Applicable To Positive-Sum Games?
+format: md
+tags: truth, time, history
+date: 2021-01-03 renovationoise
+;;;;;
+
+## A Preamble [for those who enjoy reading my garbage]
+
+Over half a decade ago, I got higher than giraffe pussy and
+began implementing the terrible ideas gnawing their way out
+of the collective unconscious through my own brain, pattern
+by metacircular pattern; although the work is further from
+completion than it was before I began, I have been far from
+fearful in its publication, and I have probably wasted more
+keystrokes in futile promotion of my work than I ever spent
+on essays during my secondary education. If you wish to see
+what I have done, and possibly even to risk your own funds,
+time, and worst of all, estimations of technical competence
+at the fringes of mad science, there are only a few options
+before you:
+
+1. The easy, modern, world-wide wonderful way, where you
+   [click here](http://github.com/adlai/scalpl#abstract)
+   and find yourself rejected, redirected, encrypted,
+   suspected, and acquitted, all while drowning in prose;
+
+2. The less-shiny thread that you may pull to your heart's
+   content, should usually deliver you [an archive of the
+   project](../leaflet.tar.gz)'s state at an arbitrary past
+   point in time, although you are almost certain to find
+   that it may contain secrets indispensible to futures
+   forgetful;
+
+3. The best one, left as an exercise to the intrepid, is
+   to ask the author for a fresh copy of the originals;
+
+4. The worst one, arguably trivial, is to roll your own!
+
+In case you have chosen the second option, and do not rely
+blindly upon the benevolence of the rotten onion's various
+layers, you should compare checks of that archive, and its
+contents, with ones provided insecurely below; if you have
+any level of technical competence whatsoever, in the field
+of physical security, please consider considering, at your
+leisure, the various published algorithms for doing so, in
+particularly the ones designed, published, and recommended
+under public scrutiny, deadlines, and committee wisdom.
+
+```
+/tmp/airdrop/# sum leaflet/* leaflet.tar.gz
+12345 7 leaflet/scalpl.asd
+67890 F leaflet.tar.gz
+```
+
+## A Brief History Of The Above
+
+By now, you may wonder why I quite so aggressively refuse
+to charge any payment whatsoever for copies, licenses, or
+even the mere privilege of having your own property slung
+around the sketchy backwaters of the fintolkolypse by the
+very author of the above junk; perhaps, you wonder, while
+weeping silently and clenching jaws in anger, why I spend
+so much of my purgatory working on such a hopelessly dull
+programming challenge, when I can quite easily obtain its
+mainstream competitors for the nominal and worthleast fee
+of expressing interest in their online presence, and even
+obtain dirt-cheap professional tools for less than I lost
+on an exchange during days of questionable decisions; and
+if you're still reading these chunks of gunk, unk, you'll
+also want slightly more information than you can dig from
+the version control metadata found in a few of the above.
+
+It all began a bit over seven years ago, when I realized how
+much Bitcoin could be earned by cautiously reducing noise in
+financial markets, with no more than the wise idiot's glance
+at the risks that must be held in return; having never played
+hot granaydoh with anything other than numbers, I rapidly
+prototyped tactics: first driving public interfaces of Web
+sites better left to their own neverending stories with my
+own limbs; subsequently, with the very same code that you
+can find in the archives. Foolishly blazing through cash
+otherwise destined to fund the education of my friendly
+dealers' unborn children, I soon found myself facing
+the terrible risk of drowning under investments in
+a startup that did not, nor should ever, exist,
+so I tossed a bridge on the dumpster fire,
+and began treating work as a game.
+
+That covers the first three years.
+
+## How about a recess, Your Honor?
+
+If you want the rest of the story,
+greater detail about the previous
+part, or even just have comments,
+dump them into this web server's
+logs by appending *?anything* to
+the address that appears above.

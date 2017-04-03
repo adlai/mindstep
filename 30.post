@@ -1,0 +1,30 @@
+;;;;;
+title: "oh. you have a blog"
+tags: rant, meta, truth
+format: md
+date: 2018-09-28 14:56:52
+;;;;;
+```
+14:41:11    adlai | it could be quite stable, at the right pressure
+14:41:16    adlai | you need to go back to thermodynamics class!
+14:41:51    adlai | start with equilibrium thermodynamics. once you're good
+                    on that, fluctuations; then bounce your way up from there.
+14:42:01 fogobogo | the right pressure being the mass of jupiter?
+14:43:04 fogobogo | entropy. sucks all the fun out of it
+14:43:36    adlai | if you like my stories, may i recommend a short one?
+14:44:08 fogobogo | sure
+14:44:15    adlai | http://adlai.uncommon-lisp.org:7421/tag/changa.html
+14:44:28 fogobogo | oh. you have blog
+14:44:37    adlai | 8k words, that's what... 8 hours reading, once you
+                    dereference all the pointers? :)
+14:45:06 fogobogo | Reflexive Interferometry in prose
+14:45:34    adlai | ahh 8k is the bytecount, it's only 1.3k words
+```
+Perhaps it's time to state, for lack of having previously done so, what exactly [this](/posts/documentation-mindstep-blog.html) means:
+
+1. Nothing here is [yet, to my knowledge] notarized. That means I edit with extreme prejudice.
+2. I don't [yet, to my knowledge] exercise unambiguous control over anything worth controlling unambiguously: not your computer, not the one serving this content, and barely even the one(s) from which I cook it. Misinterpretations and disintermediations are the responsibility of those unfortunate enough to have responsibility thrust upon them, as I believe Churchill isn't around anymore to deny having said.
+3. If I wanted this to become a halfassed predecessor of the sort of arguments witnessed in the darkest recesses of Facebook, Reddit, and their ilk, I'd have included some infrastructure for leaving comments at the bottom of these posts. Since I haven't, I probably don't! I may someday add a 'guestbook', purely out of nostalgia, but only hold your breath if you're really good at that kind of sport.
+4. As for why I spend so much timeffort making haphazardly selected parts of my neverending [yet, to my knowledge] argument with myself browsable by the random passerby: "beyond the obvious financial motivation, it's exceedingly simple... [because I can](https://www.youtube.com/watch?v=8fj4wOiDB2s)."
+
+For the record, fogobogo, all that entropy is rather what made it any fun to begin with!

@@ -1,0 +1,38 @@
+;;;;;
+title: In Which Googlebot/2.1 Gambles Like A Child
+tags: robots, truth
+format: md
+date: 2018-11-28 21:19:20
+;;;;;
+```
+ccl --eval (mapc 'ql:quickload '(:coleslaw :hunchentoot))
+66.249.75.217 - [2018-11-28 21:13:23] "GET /tag/lies.html HTTP/1.1" 200 6953 "-" "Mozilla/5
+.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.75.215 - [2018-11-28 21:13:23] "GET /robots.txt HTTP/1.1" 404 360 "-" "Mozilla/5.0 (
+compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.75.215 - [2018-11-28 21:13:23] "GET /tag/prose.html HTTP/1.1" 200 9001 "-" "Mozilla/
+5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+66.249.75.213 - [2018-11-28 21:13:23] "GET /tag/family.html HTTP/1.1" 200 9701 "-" "Mozilla
+/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+(coleslaw:main "~/blog/")
+;Loading #P".../src/quicklisp/local-projects/coleslaw/plugins/sitemap.fx64fsl".
+..
+;Loading #P"eee/src/quicklisp/local-projects/coleslaw/plugins/static-pages.fx64
+fsl"...
+;Loading #P"EEE/src/quicklisp/local-projects/coleslaw/plugins/versioned.fx64fsl
+"...; rsync --delete -raz lol/src/quicklisp/local-projects/coleslaw/themes/snid
+e/css .
+; ln -sfn 1.html index.html
+; mv /tmp/coleslaw/ /generated/3752428435
+; rm -r /generated/3750221939/
+; ln -sfn /generated/3752385548/ /.prev
+; ln -sfn /generated/3752428435 /.curr
+NIL
+NIL
+0
+? 80.244.243.194 - [2018-11-28 21:14:10] "GET / HTTP/1.0" 200 28296 "-" "w3m/0.5.3"
+^Z
+Suspended
+adlai@adlai:~ % grep tags blog/37.post
+tags: people, time, truth
+```
